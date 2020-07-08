@@ -20,6 +20,7 @@
 - [Continuous deployment of Node apps to Heroku](https://circleci.com/blog/continuous-deployment-to-heroku/)
 - [Build a CI powered RESTful API with Laravel](https://circleci.com/blog/build-a-ci-powered-restful-api-with-laravel/)
 - [Automate your Nuxt.js app deployment](https://circleci.com/blog/automate-your-nuxt-js-app-deployment/)
+- [Continuous deployment for Ionic applications](https://circleci.com/blog/cd-for-ionic-apps/)
 
 ## The New Stack
 
