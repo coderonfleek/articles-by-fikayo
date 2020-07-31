@@ -9,6 +9,7 @@
 
 ## CircleCI
 
+- [Automating the Deployment of a Svelte App to Heroku](https://circleci.com/blog/deploy-svelte-to-heroku/)
 - [Continuous deployment for progressive web applications](https://circleci.com/blog/cd-for-pwa/)
 - [Continuous integration for progressive web apps](https://circleci.com/blog/ci-for-pwas/)
 - [Automatic testing for GraphQL APIs](https://circleci.com/blog/automatic-testing-for-graphql-apis/)
