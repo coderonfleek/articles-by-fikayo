@@ -1,5 +1,9 @@
 # Articles by Fikayo Adepoju
 
+## Twilio
+
+- [Build a COVID-19 Alert Subscription System with Vue.js, Node.js, Twilio Programmable SMS and Twilio SendGrid](https://www.twilio.com/blog/build-covid-subscription-system-vue-node-sms-sendgrid)
+
 ## Auth0
 
 - [Creating an Emoji Game with Vue, Auth0, and Google Vision API](https://auth0.com/blog/creating-an-emoji-game-with-vue-auth0-and-google-vision-api/)
@@ -9,8 +13,10 @@
 
 ## CircleCI
 
+- [Continuous integration for Next.js applications](https://circleci.com/blog/next-testing/)
 - [Automating the deploy of an Adonis.js API to Heroku](https://circleci.com/blog/automating-the-deploy-of-an-adonis-api-to-heroku/)
 - [Automating the Deployment of a Svelte App to Heroku](https://circleci.com/blog/deploy-svelte-to-heroku/)
+- [Continuous integration for Svelte applications](https://circleci.com/blog/continuous-integration-for-svelte/)
 - [Configuring Automated Builds for Electron.js Apps](https://circleci.com/blog/electron-builds/)
 - [Continuous deployment for progressive web applications](https://circleci.com/blog/cd-for-pwa/)
 - [Continuous integration for progressive web apps](https://circleci.com/blog/ci-for-pwas/)
