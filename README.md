@@ -13,6 +13,7 @@
 
 ## CircleCI
 
+- [Continuous deployment for Next.js applications](https://circleci.com/blog/continuous-deployment-for-next-js-apps/)
 - [Continuous integration for Next.js applications](https://circleci.com/blog/next-testing/)
 - [Automating the deploy of an Adonis.js API to Heroku](https://circleci.com/blog/automating-the-deploy-of-an-adonis-api-to-heroku/)
 - [Automating the Deployment of a Svelte App to Heroku](https://circleci.com/blog/deploy-svelte-to-heroku/)
