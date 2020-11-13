@@ -3,6 +3,7 @@
 ## Twilio
 
 - [Build a COVID-19 Alert Subscription System with Vue.js, Node.js, Twilio Programmable SMS and Twilio SendGrid](https://www.twilio.com/blog/build-covid-subscription-system-vue-node-sms-sendgrid)
+- [An Introduction to Building Desktop Applications with Electron](https://www.twilio.com/blog/an-introduction-to-building-desktop-applications-with-electron)
 
 ## Auth0
 
