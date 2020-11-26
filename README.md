@@ -14,6 +14,7 @@
 
 ## CircleCI
 
+- [Testing an API with Postman](https://circleci.com/blog/testing-an-api-with-postman/)
 - [Continuous deployment for Go applications](https://circleci.com/blog/continuous-deployment-for-go-applications/)
 - [Continuous integration for Go applications](https://circleci.com/blog/continuous-integration-for-go-applications/)
 - [Continuous deployment for Next.js applications](https://circleci.com/blog/continuous-deployment-for-next-js-apps/)
