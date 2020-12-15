@@ -7,6 +7,7 @@
 
 ## Auth0
 
+- [Authenticating Svelte Applications](https://auth0.com/blog/authenticating-svelte-apps/)
 - [Creating an Emoji Game with Vue, Auth0, and Google Vision API](https://auth0.com/blog/creating-an-emoji-game-with-vue-auth0-and-google-vision-api/)
 - [Getting started with the new WebVR API](https://auth0.com/blog/getting-started-with-the-new-webvr-api/)
 - [Electron Tutorial: Building Modern Desktop Apps with Vue.js](https://auth0.com/blog/electron-tutorial-building-modern-desktop-apps-with-vue-js/)
