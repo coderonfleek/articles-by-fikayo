@@ -15,6 +15,8 @@
 
 ## CircleCI
 
+- [Using workflows to deploy an API to multiple environments](https://circleci.com/blog/deploy-an-api-to-multiple-environments/)
+- [Triggering jobs for database clean up](https://circleci.com/blog/triggering-jobs-for-db-clean-up/)
 - [Building Postman test reports](https://circleci.com/blog/building-postman-test-reports/)
 - [Testing an API with Postman](https://circleci.com/blog/testing-an-api-with-postman/)
 - [Continuous deployment for Go applications](https://circleci.com/blog/continuous-deployment-for-go-applications/)
