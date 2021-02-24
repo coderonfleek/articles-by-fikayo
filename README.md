@@ -30,6 +30,7 @@
 - [Automating the Deployment of a Svelte App to Heroku](https://circleci.com/blog/deploy-svelte-to-heroku/)
 - [Continuous integration for Svelte applications](https://circleci.com/blog/continuous-integration-for-svelte/)
 - [Configuring Automated Builds for Electron.js Apps](https://circleci.com/blog/electron-builds/)
+- [Using the CircleCI API to build a deployment summary dashboard](https://circleci.com/blog/deployment-dashboard/)
 - [Continuous deployment for progressive web applications](https://circleci.com/blog/cd-for-pwa/)
 - [Continuous integration for progressive web apps](https://circleci.com/blog/ci-for-pwas/)
 - [Automatic testing for GraphQL APIs](https://circleci.com/blog/automatic-testing-for-graphql-apis/)
