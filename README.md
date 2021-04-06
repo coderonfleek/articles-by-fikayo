@@ -15,6 +15,7 @@
 
 ## CircleCI
 
+- [Continuous integration for React Native applications](https://circleci.com/blog/ci-for-react-apps/)
 - [Deploying container-based web apps to Azure](https://circleci.com/blog/deploying-container-based-node-apps-to-azure/)
 - [Continuous deployment for Azure web apps](https://circleci.com/blog/continuous-deployment-for-azure-web-apps/)
 - [Deploying with approval-based workflows](https://circleci.com/blog/deploying-with-approvals/)
