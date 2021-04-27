@@ -49,7 +49,7 @@
 
 ## Sanity.io
 
-- [Build a webhook listener with React Charts and Sanity](https://www.sanity.io/guides/webhook-listeners-with-reach-charts-and-sanity)
+- [Real-time data visualization with React Charts and Sanity listeners](https://www.sanity.io/guides/real-time-data-visualization-with-react-charts-and-sanity-listeners)
 
 ## The New Stack
 
