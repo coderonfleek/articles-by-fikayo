@@ -47,6 +47,10 @@
 - [Automate your Nuxt.js app deployment](https://circleci.com/blog/automate-your-nuxt-js-app-deployment/)
 - [Continuous deployment for Ionic applications](https://circleci.com/blog/cd-for-ionic-apps/)
 
+## Sanity.io
+
+- [Build a webhook listener with React Charts and Sanity](https://www.sanity.io/guides/webhook-listeners-with-reach-charts-and-sanity)
+
 ## The New Stack
 
 - [Automatic Testing for GraphQL APIs](https://thenewstack.io/automatic-testing-for-graphql-apis/)
