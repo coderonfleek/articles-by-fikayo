@@ -7,6 +7,7 @@
 
 ## Auth0
 
+- [State Management in Vue 2 Applications](https://auth0.com/blog/vue2-state-management/)
 - [Authenticating Vuepress Apps with Auth0](https://auth0.com/blog/vuepress-authentication/)
 - [Authenticating Svelte Applications](https://auth0.com/blog/authenticating-svelte-apps/)
 - [Creating an Emoji Game with Vue, Auth0, and Google Vision API](https://auth0.com/blog/creating-an-emoji-game-with-vue-auth0-and-google-vision-api/)
