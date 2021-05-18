@@ -17,6 +17,9 @@
 
 ## CircleCI
 
+- [Automating load tests for APIs](https://circleci.com/blog/api-load-tests/)
+- [Introduction to database testing](https://circleci.com/blog/intro-db-testing/)
+- [Continuous deployment of Node.js to Azure VM](https://circleci.com/blog/cd-azure-vm/)
 - [Preventing SQL injection attacks with automated testing](https://circleci.com/blog/sql-injection/)
 - [Continuous integration for React Native applications](https://circleci.com/blog/ci-for-react-apps/)
 - [Deploying container-based web apps to Azure](https://circleci.com/blog/deploying-container-based-node-apps-to-azure/)
