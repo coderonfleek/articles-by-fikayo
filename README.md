@@ -24,6 +24,7 @@
 - [Continuous integration for React Native applications](https://circleci.com/blog/ci-for-react-apps/)
 - [Deploying container-based web apps to Azure](https://circleci.com/blog/deploying-container-based-node-apps-to-azure/)
 - [Continuous deployment for Azure web apps](https://circleci.com/blog/continuous-deployment-for-azure-web-apps/)
+- [Continuous deployment for Azure functions](https://circleci.com/blog/azure-functions-cd/)
 - [Deploying with approval-based workflows](https://circleci.com/blog/deploying-with-approvals/)
 - [Using workflows to deploy an API to multiple environments](https://circleci.com/blog/deploy-an-api-to-multiple-environments/)
 - [Triggering jobs for database clean up](https://circleci.com/blog/triggering-jobs-for-db-clean-up/)
