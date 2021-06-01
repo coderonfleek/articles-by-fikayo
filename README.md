@@ -7,6 +7,7 @@
 
 ## Auth0
 
+- [State Management in Vue 3 Applications](https://auth0.com/blog/state-management-in-vue-3-applications)
 - [State Management in Vue 2 Applications](https://auth0.com/blog/vue2-state-management/)
 - [Authenticating Vuepress Apps with Auth0](https://auth0.com/blog/vuepress-authentication/)
 - [Authenticating Svelte Applications](https://auth0.com/blog/authenticating-svelte-apps/)
